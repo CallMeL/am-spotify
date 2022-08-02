@@ -8,3 +8,5 @@
 ## Apple Music
 1. output Library.xml in apple music library: File->Lib->Export 
 2. change the `file` as your file's path
+
+# 🌟 If this code helped, please ⭐️  it 
