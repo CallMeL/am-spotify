@@ -1,4 +1,4 @@
-# Export Apple Music to Spotify Liked Songs
+# Transfer Apple Music to Spotify Liked Songs
 
 ## Spotify
 1. log in spotify development 
